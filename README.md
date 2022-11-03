@@ -94,8 +94,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/DharaVegad">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DharaVegad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DharaVegad&layout=compact&langs_count=8&theme=algolia"/> -->
-  <[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&hide=TeX&layout=compact)/>
 </a>
+ <[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&hide=TeX&layout=compact)/>
 </p>
 
 
