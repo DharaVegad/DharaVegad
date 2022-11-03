@@ -8,7 +8,6 @@
 DharaVegad/DharaVegad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- -->
  
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
@@ -18,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   
 </p>
 
-# Hi guys 👋 I'm Karan Chauhan
+# Hi guys 👋 I'm Dhara Vegad
 
 - ⚡ Self-taught full stack developer. Coding since 2017. 50+ projects across 🇮🇳, 🇨🇦, 🇺🇸 & 🇦🇺.
 - 🌱 Graduated from  Durham College, Canada
