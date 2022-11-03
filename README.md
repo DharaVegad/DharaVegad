@@ -15,10 +15,8 @@ You can click the Preview link to take a look at your changes.
  
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
- ![avatar](https://github.com/DharaVegad/DharaVegad/blob/main/image.png/?url=avatars.githubusercontent.com/u/65769327?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
 <p>
    <img align="center" src="https://github.com/DharaVegad/DharaVegad/blob/main/image.png?raw=true" width="150" height="150" border-radius="50%"/>
-
 </p>
 
 # Hi guys 👋 I'm Dhara Vegad
