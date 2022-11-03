@@ -84,7 +84,7 @@ You can click the Preview link to take a look at your changes.
 
   <p align="center"> 
   <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/thekaranchauhan/count.svg" />
+  <img src="https://profile-counter.glitch.me/DharaVegad/count.svg" />
      
 </p>
 
