@@ -97,4 +97,4 @@ You can click the Preview link to take a look at your changes.
 </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&hide=TeX&layout=compact)
