@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/DharaVegad">
+<a href="https://[github.com/DharaVegad](https://github.com/DharaVegad)">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DharaVegad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DharaVegad&layout=compact&langs_count=8&theme=algolia"/>
 </a>
