@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 
-   <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
+   <img align="center" alt="GIF" src="C:\Users\User\Downloads\CartoonApp_2022102823102916?raw=true" width="750" height="520" />
   
 </p>
 
