@@ -9,6 +9,10 @@ DharaVegad/DharaVegad is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
  
+ 
+ 
+ 
+ 
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 <p align="center">
@@ -20,11 +24,11 @@ You can click the Preview link to take a look at your changes.
 # Hi guys 👋 I'm Dhara Vegad
 
 - ⚡ Self-taught full stack developer. Coding since 2017. 50+ projects across 🇮🇳, 🇨🇦, 🇺🇸 & 🇦🇺.
-- 🌱 Graduated from  Durham College, Canada
+- 🌱 Graduated from  Lambton College, Toronto, Canada
 - 🔭 Currently exploring and contributing to Web 3.0
 - 👯 Open source contributor
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS** **Next JS** **Python** **Soidity**
-- 📫 How to reach me: chat@thekaranchauhan.com
+- 📫 How to reach me: vegaddhara50@gmail.com
 - 😄 A human form of 💯 emojis.
 
 <h3 align="left">Languages and Tools:</h3>
@@ -87,8 +91,8 @@ You can click the Preview link to take a look at your changes.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/thekaranchauhan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thekaranchauhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thekaranchauhan&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/DharaVegad">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DharaVegad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DharaVegad&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
