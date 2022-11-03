@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 
-   <img align="center" src="D:\GIT_REPO_PROJECTS\read_me\clone\DharaVegad\image.png?raw=true" width="750" height="520" />
+   <img align="center" src="https://github.com/DharaVegad/DharaVegad/blob/main/image.png?raw=true" width="750" height="520" />
    <img height="30" src="https://github.com/DharaVegad/DharaVegad/blob/main/image.png">
 </p>
 
