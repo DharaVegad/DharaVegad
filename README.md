@@ -92,7 +92,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> 
 <a href="https://github.com/DharaVegad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DharaVegad&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DharaVegad&count_private=true&theme=algolia&show_icons=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&hide=TeX&layout=compact"/>
  </a>
 </p>
