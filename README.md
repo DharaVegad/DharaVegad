@@ -17,8 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 
-   <img align="center" src="https://github.com/DharaVegad/DharaVegad/blob/main/image.png?raw=true" width="750" height="520" />
-   <img height="30" src="https://github.com/DharaVegad/DharaVegad/blob/main/image.png">
+   <img align="center" src="https://github.com/DharaVegad/DharaVegad/blob/main/image.png?raw=true" width="150" height="120" />
 </p>
 
 # Hi guys 👋 I'm Dhara Vegad
