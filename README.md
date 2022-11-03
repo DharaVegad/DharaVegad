@@ -15,10 +15,11 @@ You can click the Preview link to take a look at your changes.
  
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
+ ![CircleImageView](https://raw.github.com/hdodenhof/CircleImageView/master/screenshot.png)
 <p align="center">
 
    <img align="center" src="https://github.com/DharaVegad/DharaVegad/blob/main/image.png?raw=true" width="150" height="150" border-radius="50%"/>
- ![CircleImageView](https://raw.github.com/hdodenhof/CircleImageView/master/screenshot.png)
+
 </p>
 
 # Hi guys 👋 I'm Dhara Vegad
