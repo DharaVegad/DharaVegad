@@ -15,24 +15,7 @@ You can click the Preview link to take a look at your changes.
  
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-<html>
-<head>
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
-</head>
-<body>
-
-<h2>Circled Image</h2>
-
-<p>Use the border-radius property to create circled images:</p>
-
-<img src="https://github.com/DharaVegad/DharaVegad/blob/main/image_2.jpg?raw=true" alt="Paris" width="300" height="300">
-
-</body>
-</html>
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
 <p align="center">
    <img align="center" src="https://github.com/DharaVegad/DharaVegad/blob/main/image.png?raw=true" width="150" height="150" border-radius=50%;/>
