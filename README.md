@@ -21,10 +21,10 @@ You can click the Preview link to take a look at your changes.
 
 # Hi guys 👋 I'm Dhara Vegad
 
-- ⚡ Self-taught full stack developer. Coding since 2017. 50+ projects across 🇮🇳, 🇨🇦, 🇺🇸 & 🇦🇺.
-- 🌱 Graduated from  Lambton College, Toronto, Canada
-- 🔭 Currently exploring and contributing to Web 3.0
-- 👯 Open source contributor
+- ⚡ Full stack developer. Coding since 2019.
+- 🌱 Graduated from  Lambton College, Toronto, Canada.
+- 🔭 Currently exploring and contributing to Web 3.0.
+- 👯 Open source contributor.
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS** **Next JS** **Python** **Soidity**
 - 📫 How to reach me: vegaddhara50@gmail.com
 - 😄 A human form of 💯 emojis.
@@ -33,6 +33,12 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
+  <a href="https://www.oracle.com/java/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
   <a href="https://nodejs.dev/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -42,15 +48,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://nextjs.org/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
   </a>  
-  </a>  
   <a href="https://expressjs.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  alt="express" width="40" height="40"/> 
-  </a> 
-    <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
+  </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
@@ -71,12 +71,6 @@ You can click the Preview link to take a look at your changes.
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://redux.js.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a>
-  <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
   </a>
 </p>
 
