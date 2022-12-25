@@ -21,11 +21,11 @@ You can click the Preview link to take a look at your changes.
 
 # Hi guys 👋 I'm Dhara Vegad
 
-- ⚡ Full stack developer. Coding since 2019.
+- ⚡ Dynamic and creative Full Stack Developer. Coding since 2019.
 - 🌱 Graduated from  Lambton College, Toronto, Canada.
 - 🔭 Currently exploring and contributing to Web 3.0.
 - 👯 Open source contributor.
-- 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS** **Next JS** **Python** **Soidity**
+- 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS** **Next JS** **Python** **Java**
 - 📫 How to reach me: vegaddhara50@gmail.com
 - 😄 A human form of 💯 emojis.
 
@@ -38,6 +38,33 @@ You can click the Preview link to take a look at your changes.
   </a>
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://angular.io/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
   </a>
   <a href="https://nodejs.dev/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
@@ -71,6 +98,12 @@ You can click the Preview link to take a look at your changes.
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/>
   </a>
 </p>
 
