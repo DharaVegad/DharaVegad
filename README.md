@@ -29,7 +29,7 @@ img {
 
 <p>Use the border-radius property to create circled images:</p>
 
-<img src="https://github.com/DharaVegad/DharaVegad/blob/main/image.png?raw=true" alt="Paris" width="300" height="300">
+<img src="https://github.com/DharaVegad/DharaVegad/blob/main/image_2.jpg?raw=true" alt="Paris" width="300" height="300">
 
 </body>
 </html>
