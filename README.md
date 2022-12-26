@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me: vegaddhara50@gmail.com
 
 
-</n></b><h3 align="left">Languages and Tools:</h3></n>
+</n></b><h3 align="left">Languages and Tools:</h3></n></n></n>
 
 <p align="left"> 
   <a href="https://www.oracle.com/java/" target="_blank"> 
