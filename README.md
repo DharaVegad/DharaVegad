@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-   <img align="center" src="https://github.com/DharaVegad/DharaVegad/blob/main/image.png?raw=true" width="200" height="200" border-radius=50%;/>
+   <img align="center" src="https://github.com/DharaVegad/DharaVegad/blob/main/header_gif.gif?raw=true" width="400" height="350" border-radius=50%;/>
 </p><br>
 
 # Hi guys 👋 I'm Dhara Vegad <p align="center">
@@ -106,13 +106,16 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.atlassian.com/software/jira" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/>
   </a>
-</p><br>
+  </p><br>
+
+  <p align="left">
+   <img align="center" src="https://github.com/DharaVegad/DharaVegad/blob/main/header_gif.gif?raw=true" width="400" height="350" border-radius=50%;/>
+  </p><br>
 
   <p align="center"> 
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/DharaVegad/count.svg" />
-     
-</p>
+  </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
