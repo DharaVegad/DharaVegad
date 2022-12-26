@@ -25,11 +25,9 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Dynamic and creative Full Stack Developer. Coding since 2019.
 - 🌱 Graduated from  Lambton College, Toronto, Canada.
-- 🔭 Currently exploring and contributing to Web 3.0.
 - 👯 Open source contributor.
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS** **Next JS** **Python** **Java**
 - 📫 How to reach me: vegaddhara50@gmail.com
-- 😄 A human form of 💯 emojis.
 
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="center">Languages and Tools:</h3>
