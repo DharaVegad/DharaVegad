@@ -120,11 +120,10 @@ You can click the Preview link to take a look at your changes.
   <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-![Dhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=radical&show_owner=true)
  
 <p align="center"> 
 <a href="https://github.com/DharaVegad">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=radical&show_owner=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&hide=TeX&layout=compact&theme=algolia"/>
  </a>
 </p>
