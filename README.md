@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
  
  
  
- 
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 
