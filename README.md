@@ -21,8 +21,7 @@ You can click the Preview link to take a look at your changes.
    <img align="center" src="https://github.com/DharaVegad/DharaVegad/blob/main/image.png?raw=true" width="150" height="150" border-radius=50%;/>
 </p>
 
-# Hi guys 👋 I'm Dhara Vegad <p align="center">
-   <img align="right" alt="GIF" src="https://github.com/DharaVegad/DharaVegad/blob/main/giphy_2.gif?raw=true" width="300" height="300" /> </p>
+# Hi guys 👋 I'm Dhara Vegad 
 
 - ⚡ Dynamic and creative Full Stack Developer. Coding since 2019.
 - 🌱 Graduated from  Lambton College, Toronto, Canada.
@@ -30,6 +29,8 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS** **Next JS** **Python** **Java**
 - 📫 How to reach me: vegaddhara50@gmail.com
 
+<p align="center">
+   <img align="right" alt="GIF" src="https://github.com/DharaVegad/DharaVegad/blob/main/giphy_2.gif?raw=true" width="300" height="300" /> </p>
 
 </n></b><h3 align="left">Languages and Tools:</h3></n></n></n>
 
