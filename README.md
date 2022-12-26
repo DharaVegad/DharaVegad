@@ -18,23 +18,22 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-   <img align="center" src="https://github.com/DharaVegad/DharaVegad/blob/main/image.png?raw=true" width="150" height="150" border-radius=50%;/>
-</p>
+   <img align="center" src="https://github.com/DharaVegad/DharaVegad/blob/main/image.png?raw=true" width="200" height="200" border-radius=50%;/>
+</p><br>
 
 # Hi guys 👋 I'm Dhara Vegad <p align="center">
    <img align="right" alt="GIF" src="https://github.com/DharaVegad/DharaVegad/blob/main/giphy_2.gif?raw=true" width="280" height="280" /> </p>
-
+<br>
 - ⚡ Dynamic and creative Full Stack Developer. Coding since 2019.
 - 🌱 Graduated from  Lambton College, Toronto, Canada.
 - 👯 Open source contributor.
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS** **Next JS** **Python** **Java**
 - 📫 How to reach me: vegaddhara50@gmail.com
 
+<br>
+<br><br><h3 align="center">Languages and Tools:</h3><br>
 
-<p></n></p>
-</n></b><h3 align="left">Languages and Tools:</h3></n></n></n>
-
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.oracle.com/java/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -107,7 +106,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.atlassian.com/software/jira" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/>
   </a>
-</p>
+</p><br>
 
   <p align="center"> 
   <b>Visitor count</b><br>
