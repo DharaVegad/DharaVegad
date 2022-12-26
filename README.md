@@ -22,7 +22,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 # Hi guys 👋 I'm Dhara Vegad
-
+<p align="center">
+   <img align="right" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" /> 
+</p>
 - ⚡ Dynamic and creative Full Stack Developer. Coding since 2019.
 - 🌱 Graduated from  Lambton College, Toronto, Canada.
 - 👯 Open source contributor.
