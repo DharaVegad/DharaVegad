@@ -21,9 +21,10 @@ You can click the Preview link to take a look at your changes.
    <img align="center" src="https://github.com/DharaVegad/DharaVegad/blob/main/header_gif.gif?raw=true" width="400" height="350" border-radius=50%;/>
 </p><br>
 
-# Hi guys 👋 I'm Dhara Vegad <p align="center">
-   <img align="right" alt="GIF" src="https://github.com/DharaVegad/DharaVegad/blob/main/giphy_2.gif?raw=true" width="280" height="280" /> </p>
-<br>
+# Hi guys 👋 I'm Dhara Vegad <p align="right">
+   <img align="right" src="https://github.com/DharaVegad/DharaVegad/blob/main/giphy_5.gif?raw=true" width="350" height="200" border-radius=50%;/>
+  </p>
+  
 - ⚡ Dynamic and creative Full Stack Developer. Coding since 2019.
 - 🌱 Graduated from  Lambton College, Toronto, Canada.
 - 👯 Open source contributor.
@@ -107,22 +108,22 @@ You can click the Preview link to take a look at your changes.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/>
   </a>
   </p><br>
-
-  <p align="left">
-   <img align="center" src="https://github.com/DharaVegad/DharaVegad/blob/main/header_gif.gif?raw=true" width="400" height="350" border-radius=50%;/>
-  </p><br>
-
+  
   <p align="center"> 
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/DharaVegad/count.svg" />
-  </p>
+  </p><br>
+
+  <p align="center">
+   <img align="center" alt="GIF" src="https://github.com/DharaVegad/DharaVegad/blob/main/giphy_2.gif?raw=true" width="450" height="400" /> </p>
+  <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center"> 
 <a href="https://github.com/DharaVegad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DharaVegad&count_private=true&theme=algolia&show_icons=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&hide=TeX&layout=compact&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DharaVegad&count_private=true&theme=algolia&show_icons=true&include_all_commits=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&hide=TeX&layout=compact&theme=algolia"/>
  </a>
 </p>
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DharaVegad&layout=compact&langs_count=8&theme=algolia"/> -->
