@@ -121,17 +121,17 @@ You can click the Preview link to take a look at your changes.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=gotham&count_private=true&default=false" alt="DharaVegad" /> -->
-
 ![Dhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=radical&count_private=true&show_owner=true)
  
 <p align="center"> 
 <a href="https://github.com/DharaVegad">
- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="DharaVegad"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=DharaVegad&count_private=true&theme=algolia&show_icons=true&include_all_commits=true" alt="DharaVegad"/> 
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&hide=TeX&layout=compact&theme=algolia"/>
  </a>
 </p>
+
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=gotham&count_private=true&default=false" alt="DharaVegad" /> -->
+<!--  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="DharaVegad"/> -->
+<!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DharaVegad&count_private=true&theme=algolia&show_icons=true&include_all_commits=true" alt="DharaVegad"/>  -->
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DharaVegad&layout=compact&langs_count=8&theme=algolia"/> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&hide=TeX&layout=compact) -->
 
