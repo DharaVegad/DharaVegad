@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 # Hi guys 👋 I'm Dhara Vegad <p align="center">
-   <img align="right" alt="GIF" src="https://github.com/DharaVegad/DharaVegad/blob/main/giphy_2.gif?raw=true" width="350" height="350" /> </p>
+   <img align="right" alt="GIF" src="https://github.com/DharaVegad/DharaVegad/blob/main/giphy_2.gif?raw=true" width="300" height="300" /> </p>
 
 - ⚡ Dynamic and creative Full Stack Developer. Coding since 2019.
 - 🌱 Graduated from  Lambton College, Toronto, Canada.
