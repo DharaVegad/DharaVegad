@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
    <img align="center" src="https://github.com/DharaVegad/DharaVegad/blob/main/header_gif.gif?raw=true" width="400" height="350" border-radius=50%;/>
 </p><br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Carter+One&pause=1000&color=061E79&width=435&lines=Hello+I+am+Dhara+Vegad+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 # Hi guys 👋 I'm Dhara Vegad <p align="right">
    <img align="right" src="https://github.com/DharaVegad/DharaVegad/blob/main/giphy_5.gif?raw=true" width="350" height="200" border-radius=50%;/>
   </p>
