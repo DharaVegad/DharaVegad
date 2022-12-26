@@ -30,22 +30,10 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS** **Next JS** **Python** **Java**
 - 📫 How to reach me: vegaddhara50@gmail.com
 
-
-
-
-
-
-
-
-
-
-
-
-
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://www.oracle.com/java/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
