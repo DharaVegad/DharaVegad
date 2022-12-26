@@ -126,7 +126,7 @@ You can click the Preview link to take a look at your changes.
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=radical&show_owner=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&hide=TeX&layout=compact&theme=algolia"/>
  </a>
-</p>
+</p> 
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=gotham&count_private=true&default=false" alt="DharaVegad" /> -->
 <!--  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="DharaVegad"/> -->
