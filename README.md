@@ -121,6 +121,8 @@ You can click the Preview link to take a look at your changes.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+![Dhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=radical)
+
 [![Dhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharaVegad&theme=radical&show_icons=true&show_owner=true)](https://github.com/DharaVegad/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&layout=compact)](https://github.com/DharaVegad/github-readme-stats)
 
