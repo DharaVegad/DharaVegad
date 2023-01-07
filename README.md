@@ -122,7 +122,7 @@ You can click the Preview link to take a look at your changes.
 ### ⚙️ &nbsp;GitHub Analytics
 
 ![Dhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&show_icons=true&theme=radical)](https://github.com/DharaVegad/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&show_icons=true&theme=radical&layout=compact)](https://github.com/DharaVegad/github-readme-stats)
 
 
 
@@ -133,8 +133,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/DharaVegad/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DharaVegad&repo=convoychat" />
 </a>  -->
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=gotham&count_private=true&default=false" alt="DharaVegad" /> -->
-<!--  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="DharaVegad"/> -->
-<!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DharaVegad&count_private=true&theme=algolia&show_icons=true&include_all_commits=true" alt="DharaVegad"/>  -->
-
 
