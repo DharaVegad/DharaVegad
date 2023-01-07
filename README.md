@@ -108,7 +108,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.atlassian.com/software/jira" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/>
   </a>
-  </p><br>
+  </p><br> 
   
   <p align="center"> 
   <b>Visitor count</b><br>
