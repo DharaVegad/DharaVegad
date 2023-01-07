@@ -105,7 +105,7 @@ You can click the Preview link to take a look at your changes.
   <a href="" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/>
   </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank"> 
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/>
   </a>
   </p><br> 
@@ -121,7 +121,7 @@ You can click the Preview link to take a look at your changes.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![Dhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=radical)
+![Dhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&show_icons=true&theme=radical&layout=compact)](https://github.com/DharaVegad/github-readme-stats)
 
 
