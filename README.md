@@ -126,7 +126,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 <a href="https://github.com/DharaVegad/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DharaVegad&repo=convoychat" />
-</a>
+</a> 
 
 ![Dhara's github stats](https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=radical&show_owner=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&layout=compact)](https://github.com/DharaVegad/github-readme-stats)
