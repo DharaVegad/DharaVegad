@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+  
 <!---
 DharaVegad/DharaVegad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -123,15 +123,15 @@ You can click the Preview link to take a look at your changes.
 
 [![Dhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharaVegad&theme=radical&include_all_commits=true)](https://github.com/DharaVegad/github-readme-stats)
 
-<a href="https://github.com/DharaVegad/github-readme-stats">
+<!-- <a href="https://github.com/DharaVegad/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DharaVegad&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/DharaVegad/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DharaVegad&repo=convoychat" />
-</a> 
+</a>  -->
 
-![Dhara's github stats](https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=radical&show_owner=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&layout=compact)](https://github.com/DharaVegad/github-readme-stats)
+<!-- ![Dhara's github stats](https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=radical&show_owner=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&layout=compact)](https://github.com/DharaVegad/github-readme-stats) -->
 
 <!-- <p align="center"> 
 <a href="https://github.com/DharaVegad">
