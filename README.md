@@ -1,20 +1,4 @@
-<!-- - 👋 Hi, I’m @DharaVegad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-  
-<!---
-DharaVegad/DharaVegad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- 
- 
- 
- 
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 <p align="center">
    <img align="center" src="https://github.com/DharaVegad/DharaVegad/blob/main/header_gif.gif?raw=true" width="400" height="350" border-radius=50%;/>
@@ -28,9 +12,10 @@ You can click the Preview link to take a look at your changes.
   
 - ⚡ Dynamic and creative Full Stack Developer. Coding since 2019.
 - 🌱 Graduated from  Lambton College, Toronto, Canada.
+- 📫 How to reach me: vegaddhara50@gmail.com
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/> LinkedIn : https://www.linkedin.com/in/dhara-vegad/
 - 👯 Open source contributor.
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS** **Next JS** **Python** **Java**
-- 📫 How to reach me: vegaddhara50@gmail.com
 
 <br>
 <br><br><h3 align="center">Languages and Tools:</h3><br>
