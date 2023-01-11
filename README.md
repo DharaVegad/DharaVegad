@@ -115,15 +115,14 @@ You can click the Preview link to take a look at your changes.
   <img src="https://profile-counter.glitch.me/DharaVegad/count.svg" />
   </p><br>
 
-  <p align="center">
-   <img align="center" alt="GIF" src="https://github.com/DharaVegad/DharaVegad/blob/main/giphy_2.gif?raw=true" width="450" height="400" /> </p>
-  <br>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 ![Dhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharaVegad&count_private=true&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaVegad&show_icons=true&theme=radical&layout=compact)](https://github.com/DharaVegad/github-readme-stats)
 
+<p align="center">
+   <img align="center" alt="GIF" src="https://github.com/DharaVegad/DharaVegad/blob/main/giphy_2.gif?raw=true" width="450" height="400" /> </p>
+<br>
 
 <!-- ![Dhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=radical) -->
 <!-- ![Dhara's GitHub stats](https://github-readme-stats.vercel.app/api?username=DharaVegad&show_icons=true&theme=radical) -->
